@@ -1,0 +1,37 @@
+- total amount of water
+- Total amount of water that is rainfall
+- Total amount of water that was irrigations
+
+- total amount of water Daily
+- Total amount of water that is rainfall Daily
+- Total amount of water that was irrigations Daily
+
+- average amount of water 
+- average amount of water that is rainfall
+- average amount of water that was irrigations
+
+- average amount of water Daily
+- average amount of water that is rainfall Daily
+- average amount of water that was irrigations Daily
+
+- minimum amount of water
+- minimum amount of water that is rainfall
+- minimum amount of water that was irrigations 
+
+- minimum amount of water Daily
+- minimum amount of water that is rainfall Daily
+- minimum amount of water that was irrigations Daily
+
+-maximum amount of water Daily
+-maximum amount of water that is rainfall Daily
+-maximum amount of water that was irrigations Daily
+
+-maximum amount of water
+-maximum amount of water that is rainfall 
+-maximum amount of water that was irrigations
+
+- how Many Days did it rain 
+- how many days did we use irrigation
+- how many days did water effect fertilization and planting efforts
+- How many times did water flood 
+- How many days did the plants get water
